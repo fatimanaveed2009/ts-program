@@ -1,0 +1,2 @@
+## ts program
+git init
